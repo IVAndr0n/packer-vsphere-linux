@@ -41,9 +41,8 @@ $ tree --dirsfirst -F
 
 ## Additional information
 
-<https://gist.github.com/noraj/3b05c0efa57e045afb60e7016662342f>  
-**mkpasswd**
-Note: mkpasswd binary is installed via the package whois on Debian / Ubuntu only. On other Linux distribution such as ArchLinux, Fedora, CentOS, openSUSE, etc. mkpasswd is provided by the expect package but is an totally different utility which is available as expect_mkpasswd on Debian / Ubuntu. whois of all other Linux distro doesn't include mkpasswd but the source (C lang) can be found on the original repository <https://github.com/rfc1036/whois>.  
+[**mkpasswd**](https://gist.github.com/noraj/3b05c0efa57e045afb60e7016662342f)
+Note: mkpasswd binary is installed via the package whois on Debian / Ubuntu only. On other Linux distribution such as ArchLinux, Fedora, CentOS, openSUSE, etc. mkpasswd is provided by the expect package but is an totally different utility which is available as expect_mkpasswd on Debian / Ubuntu.
 
 ```sh
 apt update
